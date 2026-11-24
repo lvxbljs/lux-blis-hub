@@ -1,0 +1,16 @@
+{
+  "sponsor_slot_usdc": 49,
+  "payout_wallet_base_usdc": "0x91C208C20a46D0Ac52edE3C545456cAD6304c6bA",
+  "partners": [
+    {
+      "name": "Base L2 Ecosystem & USDC Settlement",
+      "url": "https://base.org",
+      "blurb": "Low-fee Ethereum L2 settlement for automated on-chain payouts and developer utilities."
+    },
+    {
+      "name": "Lux Blis Quant & Security Data Feeds (DATA-001 / DATA-003)",
+      "url": "mailto:luxblis@gmail.com?subject=BUY%20DATA-001",
+      "blurb": "Daily SQLite, CSV, and JSON snapshots of DeFi TVL momentum and verified paid bug-bounty scopes ($19-$59 USDC on Base)."
+    }
+  ]
+}

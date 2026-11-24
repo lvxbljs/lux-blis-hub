@@ -1,0 +1,37 @@
+{
+  "payout_wallet": "0x91C208C20a46D0Ac52edE3C545456cAD6304c6bA",
+  "network": "Base",
+  "token": "USDC",
+  "feeds": [
+    {
+      "feed_id": "DATA-001",
+      "slug": "defi_tvl_velocity",
+      "title": "DeFi Protocol TVL & 7d Momentum Feed",
+      "records": 100,
+      "price_onetime_usdc": 29,
+      "price_monthly_usdc": 49,
+      "zip_file": "DATA-001_defi_tvl_velocity_2026-11-24.zip",
+      "updated_utc": "2026-11-24"
+    },
+    {
+      "feed_id": "DATA-002",
+      "slug": "ai_web3_repo_velocity",
+      "title": "AI Agent & Web3 GitHub Repository Velocity Feed",
+      "records": 54,
+      "price_onetime_usdc": 19,
+      "price_monthly_usdc": 39,
+      "zip_file": "DATA-002_ai_web3_repo_velocity_2026-11-24.zip",
+      "updated_utc": "2026-11-24"
+    },
+    {
+      "feed_id": "DATA-003",
+      "slug": "active_bounty_scopes",
+      "title": "Verified Paid Bug Bounty & Wildcard Scope Feed",
+      "records": 120,
+      "price_onetime_usdc": 29,
+      "price_monthly_usdc": 59,
+      "zip_file": "DATA-003_active_bounty_scopes_2026-11-24.zip",
+      "updated_utc": "2026-11-24"
+    }
+  ]
+}
