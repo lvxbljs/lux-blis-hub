@@ -1,38 +1,29 @@
-[
-  {
-    "id": "TOOL-001",
-    "slug": "full_blockchain_solidity_cou",
-    "title": "Solidity & Blockchain CLI Tools for Python",
-    "tagline": "Effortlessly master Solidity, blockchain, and smart contracts with our comprehensive Python-based CLI tools, perfect for both beginners and experts!",
-    "price_usdc": 19,
-    "zip_path": "C:\\Users\\lvxbljs\\ai-agent\\deliverables\\03_micro_tools\\TOOL-001_full_blockchain_solidity_cou.zip",
-    "created_at": "2026-11-24 04:13"
-  },
-  {
-    "id": "TOOL-002",
-    "slug": "intentkit",
-    "title": "IntentKit: Self-Hosted AI Agent Hub",
-    "tagline": "IntentKit: Centralize and automate your AI agents with a self-hosted cloud solution, making it easier than ever to manage a collaborative team of intelligent assistants.",
-    "price_usdc": 29,
-    "zip_path": "C:\\Users\\lvxbljs\\ai-agent\\deliverables\\03_micro_tools\\TOOL-002_intentkit.zip",
-    "created_at": "2026-11-24 04:13"
-  },
-  {
-    "id": "TOOL-003",
-    "slug": "ape",
-    "title": "Build and Explore On-Chain with Python: Your CLI Micro-Tool Solution",
-    "tagline": "Unlock on-chain data with Python, your CLI micro-tool solution for building and exploring blockchain applications.",
-    "price_usdc": 19,
-    "zip_path": "C:\\Users\\lvxbljs\\ai-agent\\deliverables\\03_micro_tools\\TOOL-003_ape.zip",
-    "created_at": "2026-11-24 04:20"
-  },
-  {
-    "id": "TOOL-004",
-    "slug": "iphone_14_15_iran_anten",
-    "title": "Unlock iPhone 14/15 IRAN Antenna: Free, Permanent Activation Guide",
-    "tagline": "Unlock iPhone 14/15 IRAN Antenna: Free, permanent activation guide with two methods, source code, and unique UUID file.",
-    "price_usdc": 29,
-    "zip_path": "C:\\Users\\lvxbljs\\ai-agent\\deliverables\\03_micro_tools\\TOOL-004_iphone_14_15_iran_anten.zip",
-    "created_at": "2026-11-24 04:20"
-  }
+﻿[
+    {
+        "id":  "TOOL-001",
+        "slug":  "full_blockchain_solidity_cou",
+        "title":  "Solidity \u0026 Blockchain CLI Tools for Python",
+        "tagline":  "Effortlessly master Solidity, blockchain, and smart contracts with our comprehensive Python-based CLI tools, perfect for both beginners and experts!",
+        "price_usdc":  19,
+        "zip_path":  "C:\\Users\\lvxbljs\\ai-agent\\deliverables\\03_micro_tools\\TOOL-001_full_blockchain_solidity_cou.zip",
+        "created_at":  "2026-11-24 04:13"
+    },
+    {
+        "id":  "TOOL-002",
+        "slug":  "intentkit",
+        "title":  "IntentKit: Self-Hosted AI Agent Hub",
+        "tagline":  "IntentKit: Centralize and automate your AI agents with a self-hosted cloud solution, making it easier than ever to manage a collaborative team of intelligent assistants.",
+        "price_usdc":  29,
+        "zip_path":  "C:\\Users\\lvxbljs\\ai-agent\\deliverables\\03_micro_tools\\TOOL-002_intentkit.zip",
+        "created_at":  "2026-11-24 04:13"
+    },
+    {
+        "id":  "TOOL-003",
+        "slug":  "ape",
+        "title":  "Build and Explore On-Chain with Python: Your CLI Micro-Tool Solution",
+        "tagline":  "Unlock on-chain data with Python, your CLI micro-tool solution for building and exploring blockchain applications.",
+        "price_usdc":  19,
+        "zip_path":  "C:\\Users\\lvxbljs\\ai-agent\\deliverables\\03_micro_tools\\TOOL-003_ape.zip",
+        "created_at":  "2026-11-24 04:20"
+    }
 ]
