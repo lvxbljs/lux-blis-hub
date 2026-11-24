@@ -1,16 +1,31 @@
-{
+﻿{
   "sponsor_slot_usdc": 49,
   "payout_wallet_base_usdc": "0x91C208C20a46D0Ac52edE3C545456cAD6304c6bA",
   "partners": [
     {
-      "name": "Base L2 Ecosystem & USDC Settlement",
-      "url": "https://base.org",
-      "blurb": "Low-fee Ethereum L2 settlement for automated on-chain payouts and developer utilities."
+      "name": "Standalone Web3 & Systems Micro-Tools ($19-$29 USDC)",
+      "url": "https://lvxbljs.github.io/lux-blis-hub/tools/index.html",
+      "blurb": "Zero-dependency Python CLI utilities for on-chain RPC, gas tracking, and developer automation."
     },
     {
-      "name": "Lux Blis Quant & Security Data Feeds (DATA-001 / DATA-003)",
-      "url": "mailto:luxblis@gmail.com?subject=BUY%20DATA-001",
-      "blurb": "Daily SQLite, CSV, and JSON snapshots of DeFi TVL momentum and verified paid bug-bounty scopes ($19-$59 USDC on Base)."
+      "name": "Quant & Security SQLite/JSON Data Feeds ($19-$59 USDC)",
+      "url": "https://lvxbljs.github.io/lux-blis-hub/feeds/index.html",
+      "blurb": "Daily-updated DeFi TVL momentum (DATA-001), AI/Web3 repo velocity (DATA-002), and paid bug-bounty scopes (DATA-003)."
+    },
+    {
+      "name": "Base DEX Arbitrage & New Liquidity Launch Alerts ($29-$49 USDC)",
+      "url": "mailto:luxblis@://gmail.com",
+      "blurb": "Daily Base L2 DEX spread telemetry and newly launched liquidity pool tracking."
+    },
+    {
+      "name": "Zero-Cost Testnet & Tokenless Airdrop Intelligence ($19-$39 USDC)",
+      "url": "mailto:luxblis@://gmail.com",
+      "blurb": "Daily high-TVL tokenless protocol tracking and zero-capital EVM testnet qualification checklists."
+    },
+    {
+      "name": "RDAP-Verified Brandable Domain Flip Shortlists ($19-$39 USDC)",
+      "url": "mailto:luxblis@://gmail.com",
+      "blurb": "Daily unregistered .com/.xyz AI & Web3 domain drops with 3x+ target resale margin."
     }
   ]
 }
