@@ -1,32 +1,36 @@
 ﻿{
-  "sponsor_slot_usdc": 49,
-  "payout_wallet_base_usdc": "0x91C208C20a46D0Ac52edE3C545456cAD6304c6bA",
-  "partners": [
-    {
-      "name": "Standalone Web3 & Systems Micro-Tools ($19-$29 USDC)",
-      "url": "https://lvxbljs.github.io/lux-blis-hub/tools/index.html",
-      "blurb": "Zero-dependency Python CLI utilities for on-chain RPC, gas tracking, and developer automation."
-    },
-    {
-      "name": "Quant & Security SQLite/JSON Data Feeds ($19-$59 USDC)",
-      "url": "https://lvxbljs.github.io/lux-blis-hub/feeds/index.html",
-      "blurb": "Daily-updated DeFi TVL momentum (DATA-001), AI/Web3 repo velocity (DATA-002), and paid bug-bounty scopes (DATA-003)."
-    },
-    {
-      "name": "Base DEX Arbitrage & New Liquidity Launch Alerts ($29-$49 USDC)",
-      "url": "mailto:luxblis@gmail.com",
-      "blurb": "Daily Base L2 DEX spread telemetry and newly launched liquidity pool tracking."
-    },
-    {
-      "name": "Zero-Cost Testnet & Tokenless Airdrop Intelligence ($19-$39 USDC)",
-      "url": "mailto:luxblis@gmail.com",
-      "blurb": "Daily high-TVL tokenless protocol tracking and zero-capital EVM testnet qualification checklists."
-    },
-    {
-      "name": "RDAP-Verified Brandable Domain Flip Shortlists ($19-$39 USDC)",
-      "url": "mailto:luxblis@gmail.com",
-      "blurb": "Daily unregistered .com/.xyz AI & Web3 domain drops with 3x+ target resale margin."
-    }
-  ]
+    "sponsor_slot_usdc":  49,
+    "payout_wallet_base_usdc":  "0x91C208C20a46D0Ac52edE3C545456cAD6304c6bA",
+    "partners":  [
+                     {
+                         "name":  "MEXC Global — Zero-Fee Spot \u0026 Altcoin Liquidity (Invite Code: 4FpNu)",
+                         "url":  "https://s.mexc.com/referral/6Aht1J1mN0",
+                         "blurb":  "Trade emerging DeFi, Base L2, and AI tokens with ultra-low fees and instant crypto settlement using invite code 4FpNu."
+                     },
+                     {
+                         "name":  "Standalone Web3 \u0026 Systems Micro-Tools ($19-$29 USDC)",
+                         "url":  "https://lvxbljs.github.io/lux-blis-hub/tools/index.html",
+                         "blurb":  "Zero-dependency Python CLI utilities for on-chain RPC, gas tracking, and developer automation."
+                     },
+                     {
+                         "name":  "Quant \u0026 Security SQLite/JSON Data Feeds ($19-$59 USDC)",
+                         "url":  "https://lvxbljs.github.io/lux-blis-hub/feeds/index.html",
+                         "blurb":  "Daily-updated DeFi TVL momentum (DATA-001), AI/Web3 repo velocity (DATA-002), and paid bug-bounty scopes (DATA-003)."
+                     },
+                     {
+                         "name":  "Base DEX Arbitrage \u0026 New Liquidity Launch Alerts ($29-$49 USDC)",
+                         "url":  "mailto:luxblis@gmail.com",
+                         "blurb":  "Daily Base L2 DEX spread telemetry and newly launched liquidity pool tracking."
+                     },
+                     {
+                         "name":  "Zero-Cost Testnet \u0026 Tokenless Airdrop Intelligence ($19-$39 USDC)",
+                         "url":  "mailto:luxblis@gmail.com",
+                         "blurb":  "Daily high-TVL tokenless protocol tracking and zero-capital EVM testnet qualification checklists."
+                     },
+                     {
+                         "name":  "RDAP-Verified Brandable Domain Flip Shortlists ($19-$39 USDC)",
+                         "url":  "mailto:luxblis@gmail.com",
+                         "blurb":  "Daily unregistered .com/.xyz AI \u0026 Web3 domain drops with 3x+ target resale margin."
+                     }
+                 ]
 }
-
