@@ -10,18 +10,8 @@
       "records": 100,
       "price_onetime_usdc": 29,
       "price_monthly_usdc": 49,
-      "zip_file": "DATA-001_defi_tvl_velocity_2026-11-24.zip",
-      "updated_utc": "2026-11-24"
-    },
-    {
-      "feed_id": "DATA-002",
-      "slug": "ai_web3_repo_velocity",
-      "title": "AI Agent & Web3 GitHub Repository Velocity Feed",
-      "records": 54,
-      "price_onetime_usdc": 19,
-      "price_monthly_usdc": 39,
-      "zip_file": "DATA-002_ai_web3_repo_velocity_2026-11-24.zip",
-      "updated_utc": "2026-11-24"
+      "zip_file": "DATA-001_defi_tvl_velocity_2026-11-25.zip",
+      "updated_utc": "2026-11-25"
     },
     {
       "feed_id": "DATA-003",
@@ -30,8 +20,8 @@
       "records": 120,
       "price_onetime_usdc": 29,
       "price_monthly_usdc": 59,
-      "zip_file": "DATA-003_active_bounty_scopes_2026-11-24.zip",
-      "updated_utc": "2026-11-24"
+      "zip_file": "DATA-003_active_bounty_scopes_2026-11-25.zip",
+      "updated_utc": "2026-11-25"
     }
   ]
 }
