@@ -16,5 +16,23 @@
     "price_usdc": 29,
     "zip_path": "C:\\Users\\lvxbljs\\ai-agent\\deliverables\\03_micro_tools\\TOOL-002_evmole.zip",
     "created_at": "2026-11-25 10:00"
+  },
+  {
+    "id": "TOOL-003",
+    "slug": "blog",
+    "title": "CodeCraft: Your Personal Dev Toolbox",
+    "tagline": "CodeCraft: Your Personal Dev Toolbox - Streamline coding with Mojo, Rust, Golang, Python, Kotlin, Flutter, VueJS, and Blockchain solutions.",
+    "price_usdc": 19,
+    "zip_path": "C:\\Users\\lvxbljs\\ai-agent\\deliverables\\03_micro_tools\\TOOL-003_blog.zip",
+    "created_at": "2026-11-26 10:00"
+  },
+  {
+    "id": "TOOL-004",
+    "slug": "hummingbot",
+    "title": "Trade Crypto, Earn More: Hummingbot CLI for High-Frequency Traders",
+    "tagline": "Trade crypto, earn more with Hummingbot CLI - open-source software for creating and deploying high-frequency crypto trading bots.",
+    "price_usdc": 29,
+    "zip_path": "C:\\Users\\lvxbljs\\ai-agent\\deliverables\\03_micro_tools\\TOOL-004_hummingbot.zip",
+    "created_at": "2026-11-26 10:00"
   }
 ]
